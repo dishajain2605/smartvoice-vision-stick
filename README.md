@@ -8,6 +8,11 @@ An advanced computer vision framework for vision assistance, featuring object de
 - **Web Dashboard**: Glassmorphic UI with live video stream, AI terminal logs, and system health status.
 - **Responsive Design**: Works on Desktop, Tablets, and Mobile.
 
+## Hardware Support
+- **Processor**: Optimized for Raspberry Pi 4/5 (also compatible with Windows/Linux).
+- **Camera**: Support for Raspberry Pi Camera Module V2 and USB Webcams.
+- **Backend**: Uses OpenCV with DirectShow (Windows) and GStreamer (Linux) for high-frame-rate streaming.
+
 ## Setup Instructions
 
 ### 1. Requirements
