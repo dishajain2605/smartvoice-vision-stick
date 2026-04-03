@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (Keep these if you want them in the repo, otherwise ignore)
+# tflite_model/*.tflite
+
+# Captures
+*.jpg
+*.png
+!templates/*.png
